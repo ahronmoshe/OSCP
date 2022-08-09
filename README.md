@@ -1,3 +1,3 @@
 # OSCP
 
-script for BOF in OSCP
+scripts for BOF in OSCP
